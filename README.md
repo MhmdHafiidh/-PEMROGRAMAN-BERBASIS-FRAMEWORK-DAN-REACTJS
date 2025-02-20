@@ -76,4 +76,4 @@ Mengirim data gambar melalui API – Digunakan dalam respons API untuk menyediak
 Menentukan gambar default jika tidak tersedia – Digunakan untuk menampilkan gambar pengganti jika pengguna belum mengunggah foto.
 Memproses atau mengubah gambar pengguna – Bisa digunakan dalam fitur pengeditan gambar atau pemrosesan gambar dinamis.
 
-2.  ![screenshot](/public/assets/image3.png)
+2.  ![screenshot](assets/image3.png)
