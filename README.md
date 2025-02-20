@@ -17,7 +17,7 @@
     Node.js
     Node.js adalah runtime JavaScript yang memungkinkan kita menjalankan JavaScript di luar browser. Digunakan untuk membangun aplikasi backend, menjalankan server, dan mengelola package manager (npm/yarn).
 
-2.  ![screenshot](/image1.png)
+2.  ![screenshot](assets/image1.png)
 
 ### Jawaban Soal 2
 
@@ -59,11 +59,11 @@
     tailwind.config.ts → File konfigurasi untuk Tailwind CSS, digunakan untuk menyesuaikan warna, font, spacing, dll.
     tsconfig.json → Konfigurasi untuk TypeScript, menentukan aturan kompilasi dan fitur TypeScript yang digunakan dalam proyek.
 
-3.  ![screenshot](/assets/image2.png)
+3.  ![screenshot](assets/image2.png)
 
 ### Jawaban Soal 3
 
-1.  ![screenshot](/assets/image3.png)
+1.  ![screenshot](assets/image3.png)
 
 ### Jawaban Soal 4
 
